@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoFrancia
 - 👀 I’m interested in programação
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on  conhecimento
 - 📫 How to reach me  https://www.linkedin.com/in/rodrigo-francia-557456220/
 
